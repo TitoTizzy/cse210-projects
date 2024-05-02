@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Core Requirements
+        // Prog Core Requirements
         List<int> numbers = new List<int>();
         
         
